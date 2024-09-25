@@ -102,8 +102,8 @@ class UI {
     static sendNotification(entry) {
         // Initialize Infobip with your credentials
         const infobipConfig = {
-            apiKey: "e1d6c6e8255beb7dc7d78117b53d5368-ea8bcfd1-61a0-4f7a-bb4f-e179a3f600ba",
-            apiUrl: "https://439zlp.api.infobip.com",
+            apiKey: "",
+            apiUrl: "",
         };
 
         const message = {
